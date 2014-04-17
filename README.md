@@ -4,7 +4,7 @@ The paper is at http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=67295
 Author: Shuangyin Li, Guan Huang, Ruiyang Tan, Rong Pan <br/>
 Sun Yat-sen University <br/>
 <br/>
-Any question about code please contact us by emails.
+Any question about code please contact us by emails.<br/>
 lishyin AT mail2.sysu.edu.cn.<br/>
 panr AT sysu.edu.cn.<br/>
 
