@@ -1,4 +1,4 @@
-The code and demo is about the paper "Tag-Weighted Dirichlet Allocation"
+The code (demo) is about the paper "Tag-Weighted Dirichlet Allocation"
 ============================================================
 The paper is at http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6729528 <br/>
 Author: Shuangyin Li, Guan Huang, Ruiyang Tan, Rong Pan <br/>
