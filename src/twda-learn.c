@@ -206,11 +206,14 @@ void learn_pi(Document** corpus, sslda_model* model, Config* config) {
     //double* pi = new double[num_labels];
     double* descent_pi = new double[num_labels];
     double z;
+    int num_wait_for_z = 0;
     do {
         init_pi(model->pi,num_labels);
         z = get_pi_function(corpus,model);
+        fprintf(stderr, "wait for z >=0\n");
+        num_wait_for_z ++;
     }
-    while ( z < 0);
+    while ( z < 0 && num_wait_for_z <= 20);
     double last_z;
     double learn_rate = config->pi_learn_rate;
     double eps = 1000;

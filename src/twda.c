@@ -217,6 +217,7 @@ Document** read_data(char* filename,int num_topics,int& num_words, int& num_docs
     // num_labels ++;
     //for the index of tags starts zero, so the number of tags is one more.
     num_labels ++;
+    num_labels ++;
 
     /*for(int i=0; i<27; i++){
         printf("%d",tags[i]);
