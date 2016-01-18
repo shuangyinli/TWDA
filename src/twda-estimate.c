@@ -1,6 +1,6 @@
 /*============================================================================= 
-#  Author:          Shuangyin Li, JiefeiLi
-#  Email:           lishyin@mail2.sysu.edu.cn, lijiefei@mail2.sysu.edu.cn 
+#  Author:          Shuangyin Li
+#  Email:           lishyin@mail2.sysu.edu.cn
 #  School:          Sun Yat-sen University
 =============================================================================*/ 
 
